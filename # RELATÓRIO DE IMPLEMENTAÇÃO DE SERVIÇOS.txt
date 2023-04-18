@@ -1,0 +1,39 @@
+# RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
+
+Data: [18/04/2023]
+Empresa: UMBRELLA CORPORATION 
+Responsável: [VICTOR GABRIEL ABREU SOFFA]
+
+## Introdução
+Este relatório apresenta o processo de implementação de ferramentas na empresa [UMBRELLA CORPORATION], realizado por [VICTOR GABRIEL ABREU SOFFA]. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
+
+
+## Descrição do Projeto
+O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
+
+
+Etapa 1: 
+- [Amazon EC2 Spot Instances]
+- [O Amazon EC2 Spot Instances é um serviço que permite a compra de capacidade de computação ociosa da AWS a preços reduzidos.]
+- [Isso pode ajudar a reduzir o custo de infraestrutura de uma farmácia, já que a capacidade de computação não é necessária o tempo todo. Por exemplo, durante períodos de baixo tráfego, a farmácia pode usar o Amazon EC2 Spot Instances para reduzir o custo de infraestrutura.]
+
+
+Etapa 2: 
+- [AWS Lambda]
+- [O AWS Lambda é um serviço que permite executar código sem a necessidade de provisionar ou gerenciar servidores.]
+- [Isso pode ajudar a reduzir o custo de infraestrutura da farmácia, pois ela pode executar seu código sem a necessidade de gerenciar um servidor 24/7. Além disso, o AWS Lambda cobra apenas pelo tempo em que o código é executado, o que significa que a farmácia só paga pelo tempo que seu código está em execução.]
+
+
+Etapa 3: 
+- [Amazon S3 Intelligent-Tiering]
+- [O Amazon S3 Intelligent-Tiering é um serviço de armazenamento de objetos da AWS que classifica automaticamente objetos em diferentes camadas de armazenamento com base no uso e na frequência de acesso. ]
+- [Isso pode ajudar a reduzir o custo de armazenamento da farmácia, pois os objetos menos usados serão movidos para camadas de armazenamento mais baratas. Por exemplo , a farmácia pode armazenar registros de vendas em camadas de armazenamento menos usadas, como a camada Glacier, para reduzir o custo de armazenamento.]
+
+
+## Conclusão
+A implementação de ferramentas na empresa *[ UMBRELLA CORPORATION] tem como esperado [Esses são apenas alguns exemplos de como a AWS pode ajudar a reduzir o preço na infraestrutura de uma farmácia. A AWS oferece uma ampla gama de serviços e recursos para ajudar a otimizar a infraestrutura e reduzir custos em vários setores, incluindo o setor de saúde.]*, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+
+
+Assinatura do Responsável pelo Projeto:
+
+[VICTOR GABRIEL ABREU SOFFA]
